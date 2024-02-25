@@ -4,7 +4,7 @@
 
 如果您觉得程序对您有所帮助的话，可以点击star点亮下本项目，谢谢！
 
-**特别感谢小红书中提供水印抠图的 [鱼虾一整晚]([url](https://www.xiaohongshu.com/user/profile/64736c3400000000100357fa?xhsshare=CopyLink&appuid=63ed7d6d000000002501f612&apptime=1708878092))**
+**特别感谢小红书中提供水印抠图的 [鱼虾一整晚](https://www.xiaohongshu.com/user/profile/64736c3400000000100357fa?xhsshare=CopyLink&appuid=63ed7d6d000000002501f612&apptime=1708878092)**
 
 ## 效果展示
 ||||
@@ -13,7 +13,7 @@
 
 
 ## 使用教程
-1. 安装pillow库
+1. 安装依赖库
     ```pip install -r requirements.txt```
 
 2. 将需要添加水印的图像放入**inputs文件夹**
