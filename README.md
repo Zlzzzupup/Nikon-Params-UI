@@ -7,9 +7,10 @@
 **特别感谢小红书中提供水印抠图的 [鱼虾一整晚](https://www.xiaohongshu.com/user/profile/64736c3400000000100357fa?xhsshare=CopyLink&appuid=63ed7d6d000000002501f612&apptime=1708878092)**
 
 ## 效果展示
-||||
-|-|-|-|
-|![](images/test1.jpg)|![](images/test.jpg)|![](images/3.jpeg)
+|||
+|-|-|
+|![](images/test1.jpg)|![](images/test.jpg)|
+|![](images/test2.jpg)|![](images/test3.jpg)|
 
 
 ## 使用教程
